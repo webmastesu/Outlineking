@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     "msapplication-TileColor": "#064e3b",
     "msapplication-navbutton-color": "#064e3b",
   },
-    generator: 'v0.dev'
+    developer: 'nandakyaw'
 }
 
 export default function RootLayout({
